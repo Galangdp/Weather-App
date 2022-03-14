@@ -267,3 +267,4 @@ Widget forecastElement(
     ),
   );
 }
+
